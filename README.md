@@ -1,0 +1,2 @@
+# DjangoNext
+Institute ERP
